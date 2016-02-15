@@ -1,0 +1,1 @@
+A 3D modelling suite for Wiremod's E2 Holograms.  Supports all the common functionality required in static holo model construction.
